@@ -20,6 +20,7 @@ public class Main {
 
         while (opcion != 3) {
             System.out.println("\n=== SISTEMA DE GESTION DE CANCHAS ===");
+            System.out.println("\n-------------------------------------");    
             System.out.println("1. Menu Administrador");
             System.out.println("2. Menu Cliente");
             System.out.println("3. Salir");
